@@ -4,7 +4,7 @@
 * @Name : TelegramBotSample/bot.php
 * @Version : 1.0
 * @Programmer : Max, Stephin
-* @Date : 2017-02-17
+* @Date : 2015-05-12, 2017-02-17
 * @Released under : https://github.com/BaseMax/TelegramBotSample/blob/master/LICENSE
 * @Repository : https://github.com/BaseMax/TelegramBotSample
 *
